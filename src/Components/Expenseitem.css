@@ -1,0 +1,90 @@
+
+
+body{
+    background-color: rgb(70, 67, 67);
+
+}
+
+.container{
+
+    background-color: rgb(87, 73, 73);
+    padding: 0.1rem ;
+    
+}
+
+
+
+
+
+.expense-item{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgb(231, 231, 136);
+    padding: 0.5rem;
+    box-shadow: 0 2px 8px black;
+    background-color: rgb(96, 92, 92);
+    margin: 1rem 12rem;
+
+    
+    
+}
+
+.item{
+    color:white;
+    font-weight: bold;
+    font-size: 17.5px;
+    margin-right: 750px;
+    width: 3%;
+    border: 1px solid black;
+    border: hidden;
+}
+.price{
+    color: white;
+    margin-right: -10px;
+    /* width: 8%;
+    height: 5vh; */
+    background-color: rgb(111, 25, 140);
+   padding: 10px 40px;
+    text-align: center;
+    border-radius: 14px;
+    border: 1px solid violet;
+    
+  
+}
+
+.Calender{
+
+    color:white;
+    width: 5.5%;
+    height: 8vh;
+    background-color: aliceblue;
+    font-size: 15px;
+    text-align: center;
+    /* border: 1px solid white; */
+    border-radius: 9px;
+    font-size: 10px;
+    box-shadow:0px 0px 4px white ;
+    background-color: rgb(40, 38, 38);
+}
+
+.tarikh{
+
+    font-size: 20px;
+    margin-top: 5px;
+}
+.mahina{
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.CT{
+
+    padding: 4px 8px;
+    border: 1px solid white;
+    background-color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
